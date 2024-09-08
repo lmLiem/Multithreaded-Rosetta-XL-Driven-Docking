@@ -1,0 +1,1 @@
+# Using XWalk program to measure Lys-Lys solvent access distance

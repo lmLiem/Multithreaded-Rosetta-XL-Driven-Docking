@@ -1,0 +1,1 @@
+# Filter out Models with too small interface area 
